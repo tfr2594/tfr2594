@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfr2594&theme=hiii" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfr2594&&layout=compact&theme=gruvbox_light" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tfr2594&theme=hiii" />
 <!---
