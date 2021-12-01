@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfr2594&theme=hiii" />
 
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -15,6 +14,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfr2594&theme=hiii" />
 
 <!---
 tfr2594/tfr2594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
