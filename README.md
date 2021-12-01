@@ -1,5 +1,5 @@
 - Hi, my name is Timmy and I'm an aspiring data analyst with a passion for photography, data based storytelling, baking, random wikipedia articles, and more!
-- Currently a student at Northwestern Bootcamp for Data Analytics and Visualization. Fee; free to check out some of my current repos, I always being adding more.
+- Currently a student at Northwestern Bootcamp for Data Analytics and Visualization. Feel free to check out some of my current repos, I always being adding more.
 - Thanks for reading!
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
