@@ -1,5 +1,6 @@
 - Hi, my name is Timmy and I'm an aspiring data analyst with a passion for photography, data based storytelling, baking, random wikipedia articles, and more!
 - Currently a student at Northwestern Bootcamp for Data Analytics and Visualization. Feel free to check out some of my current repos, I always being adding more.
+- Feel free to checkout some of my practice Tableau Dashboards as well! https://public.tableau.com/app/profile/tim.reynolds
 - Thanks for reading!
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
